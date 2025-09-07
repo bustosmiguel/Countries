@@ -25,3 +25,4 @@ df %>% ggplot(x = País, y = Volumen)+
 df <- data.frame(País = c("Canada", "Chile", "Mexico", "Uruguay"),
                  Volumen = c(143442, 175933, 220940, 190098),
                  Zona = c("N", "S", "C", "S"))
+df
